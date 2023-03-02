@@ -1,0 +1,16 @@
+.popup__profession {
+  width: 100%;
+  height: 27px;
+  border: 0px;
+  line-height: 27px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  font-family: inherit;
+  font-size: 14px;
+  padding: 0;
+  }
+
+.popup__profession::-webkit-input-placeholder {color:#000000;}
+.popup__profession::-moz-placeholder          {color:#000000;}
+.popup__profession::-ms-input-placeholder     {color:#000000;}
+.popup__profession::placeholder               {color:#000000;}
+

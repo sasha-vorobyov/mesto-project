@@ -1,0 +1,19 @@
+.profile__info-profession {
+  width: 100%;
+  width: fit-content;
+  color: white;
+  font-size: 18px;
+  line-height: 21.78px;
+  font-weight: 400;
+  margin: 0;
+}
+
+@media screen and (max-width: 400px) {
+  .profile__info-profession {
+    min-width: 88.1%;
+    font-size: 14px;
+    line-height: 16.94px;
+    text-align: center;
+    align-self: center;
+  }
+}
