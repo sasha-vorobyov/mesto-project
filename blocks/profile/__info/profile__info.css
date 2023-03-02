@@ -1,6 +1,5 @@
 .profile__info {
   width: 38.1%;
-  min-height: 73%;
   min-width: fit-content;
   display: flex;
   flex-direction: column;

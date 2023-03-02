@@ -1,8 +1,7 @@
 .profile {
   display: flex;
   max-width: 880px;
-  min-height: 120px;
-  width: 100%;
+   width: 100%;
   white-space: nowrap;
   align-items: center;
   justify-content: space-between;
