@@ -1,0 +1,15 @@
+.popup__input {
+  width: 100%;
+  border: 0px;
+  line-height: 16.94px;
+  vertical-align: text-top;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  font-family: inherit;
+  font-size: 14px;
+  padding: 0 0 10px 0;
+}
+
+.popup__input::-webkit-input-placeholder {color:#000000;}
+.popup__input::-moz-placeholder          {color:#000000;}
+.popup__input::-ms-input-placeholder     {color:#000000;}
+.popup__input::placeholder               {color:#000000;}
